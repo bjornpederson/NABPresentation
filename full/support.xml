@@ -1,0 +1,30 @@
+<?xml version=\"1.0\"?>
+<supportData>
+	<submenu name="My Info">
+	</submenu>
+	<submenu name="FAQ">
+	</submenu>
+	<submenu name="Help">
+	<area name="General">
+	<video locate="turningIn" caption="How to turn in an Assignment" thumbwidth="100" thumbheight="75" />
+	<video locate="transcriptsec" caption="Adding a Transcript and Security" thumbwidth="100" thumbheight="75" />
+	<video locate="tourofWebVista" caption="Tour of the Web Vista Environment" thumbwidth="100" thumbheight="75" />
+	</area>
+	<area name="Notes">
+	<video locate="pubgoogle" caption="Publish a Google Doc as a web page" thumbwidth="100" thumbheight="75" />
+	<video locate="logintohelp" caption="Logging into the EfolioMN help" thumbwidth="100" thumbheight="75" />
+	<video locate="turningIn" caption="How to turn in an Assignment" thumbwidth="100" thumbheight="75" />
+	<video locate="transcriptsec" caption="Adding a Transcript and Security" thumbwidth="100" thumbheight="75" />
+	<video locate="tourofWebVista" caption="Tour of the Web Vista Environment" thumbwidth="100" thumbheight="75" />
+	<video locate="pubgoogle" caption="Publish a Google Doc as a web page" thumbwidth="100" thumbheight="75" />
+	<video locate="logintohelp" caption="Logging into the EfolioMN help" thumbwidth="100" thumbheight="75" />
+	<video locate="turningIn" caption="How to turn in an Assignment" thumbwidth="100" thumbheight="75" />
+	</area>
+	<area name="Submission">
+	<video locate="transcriptsec" caption="Adding a Transcript and Security" thumbwidth="100" thumbheight="75" />
+	<video locate="tourofWebVista" caption="Tour of the Web Vista Environment" thumbwidth="100" thumbheight="75" />
+	<video locate="pubgoogle" caption="Publish a Google Doc as a web page" thumbwidth="100" thumbheight="75" />
+	<video locate="logintohelp" caption="Logging into the EfolioMN help" thumbwidth="100" thumbheight="75" />
+	</area>
+	</submenu>
+</supportData>

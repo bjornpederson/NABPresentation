@@ -1,0 +1,65 @@
+<?xml version=\"1.0\"?>
+<landingData>
+	<course>Medication Support - Review Course</course>
+	<intro>Welcome to the Medication Support Review Course brought in by the xml</intro>
+	<module>
+		<title>Working with Medications - Basics</title>
+		<status>Start</status>
+		<description>Basic Information:
+•	Contact information.
+•	Physical information.
+•	Emergency contacts.
+•	Barriers to informed consent.</description>
+		<direction>When you are ready to begin, please click the Start Button to begin the “Working with Medications - Basics” module. 
+
+This unit will give an overview of the importance of medical histories and medications that a client might use or have access.</direction>		
+	</module>
+	<!---<module>
+		<title>Working to prevent Medication Error</title>
+		<status>Continue</status>
+		<description>descriptions for reasons for Medications
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce augue dui, auctor in varius in, consectetur vel ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam gravida, risus non feugiat rutrum, nulla nisl vehicula felis, id ornare neque sem sit amet elit. Proin nec risus mi, vitae molestie justo. Suspendisse potenti. Maecenas et odio eget velit semper eleifend a sed massa. Curabitur sapien mi, interdum et tempor et, scelerisque non sem. Quisque ornare dictum dictum. Etiam faucibus lectus vel nisi pharetra sed faucibus tortor aliquam. Nam vehicula lacinia lacus sit amet pellentesque. Sed eu nulla libero. Cras eu felis diam. Praesent consectetur mi iaculis magna ultrices eget condimentum nulla consectetur. Suspendisse lectus justo, sodales ut bibendum ac, porttitor facilisis odio. Vivamus a turpis et dolor aliquam consequat. Fusce felis nulla, pellentesque non ullamcorper eget, vestibulum in libero.
+
+Sed imperdiet augue sed neque pulvinar eu volutpat nulla ultricies. Vestibulum tempor lobortis faucibus. Donec convallis eros ac velit mattis at rutrum tortor ornare. Donec eu nulla dolor, quis tincidunt leo. Etiam pharetra ligula id lacus rutrum congue. Nullam dignissim purus sed elit condimentum id consectetur nisi condimentum. Aliquam erat volutpat. Fusce hendrerit, risus quis feugiat vehicula, risus magna facilisis eros, sit amet facilisis purus nisi vitae velit. Pellentesque in odio tellus, non faucibus felis. Morbi elit velit, sagittis lacinia malesuada nec, volutpat non sem.
+
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam elementum erat id lorem pretium laoreet. In neque velit, rutrum a ultricies eget, facilisis ac nisi. Sed consequat pulvinar dui, euismod tristique tortor mollis ut. Morbi non dui ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae purus est, vitae elementum arcu. Etiam eget leo est, sed venenatis velit. Donec iaculis mollis urna, a pellentesque neque aliquet et. Donec id dui ipsum. Duis vel sapien eget arcu hendrerit lacinia et et magna. Ut condimentum fermentum fringilla. Nullam eget mi tellus, in bibendum erat. Phasellus sit amet lacus magna. Maecenas laoreet ante non augue dictum a porttitor tortor accumsan. In vitae nunc dolor, et rhoncus arcu. Phasellus vel turpis eu metus rutrum consectetur. Nulla dignissim dictum cursus.
+
+Quisque libero risus, suscipit sit amet mollis nec, condimentum in diam. Integer commodo ligula quis lectus pharetra in tincidunt arcu tincidunt. Maecenas nec lacus ipsum. Phasellus interdum consequat dolor. Proin volutpat eros a ipsum varius porttitor. Mauris pellentesque ullamcorper pulvinar. Quisque nunc ipsum, dapibus vel tristique sed, faucibus malesuada diam. Ut in nisi porttitor odio tincidunt viverra. Fusce orci purus, varius non pulvinar quis, interdum vel arcu. Praesent eu varius tellus.
+
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer pulvinar, eros sed faucibus faucibus, leo erat interdum nulla, vitae commodo ipsum risus id purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras leo tellus, elementum eu mollis id, vestibulum a risus. Maecenas tincidunt blandit ante, at hendrerit mauris imperdiet sit amet. Curabitur diam tortor, fringilla ac cursus at, congue in felis. Nam pellentesque pellentesque massa et convallis. Donec augue risus, pellentesque tristique vulputate non, rutrum dictum metus. Vivamus nibh est, rutrum non accumsan sed, euismod ut felis. Curabitur sodales est eget nisl auctor quis dignissim lacus pulvinar. Curabitur quis elit et nibh fringilla blandit ut ac dui. Proin volutpat arcu id lorem vulputate condimentum. Praesent sed tincidunt neque. Suspendisse non sem nec massa tempus sollicitudin. In accumsan pretium sodales. Phasellus ac sapien sit amet dolor eleifend varius. Quisque sed urna ut eros pharetra pharetra ac in dui. Aliquam varius gravida ipsum ac sodales. Suspendisse vel quam diam, quis interdum augue. </description>
+		<direction>Some Directions
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce augue dui, auctor in varius in, consectetur vel ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam gravida, risus non feugiat rutrum, nulla nisl vehicula felis, id ornare neque sem sit amet elit. Proin nec risus mi, vitae molestie justo. Suspendisse potenti. Maecenas et odio eget velit semper eleifend a sed massa. Curabitur sapien mi, interdum et tempor et, scelerisque non sem. Quisque ornare dictum dictum. Etiam faucibus lectus vel nisi pharetra sed faucibus tortor aliquam. Nam vehicula lacinia lacus sit amet pellentesque. Sed eu nulla libero. Cras eu felis diam. Praesent consectetur mi iaculis magna ultrices eget condimentum nulla consectetur. Suspendisse lectus justo, sodales ut bibendum ac, porttitor facilisis odio. Vivamus a turpis et dolor aliquam consequat. Fusce felis nulla, pellentesque non ullamcorper eget, vestibulum in libero.
+
+Sed imperdiet augue sed neque pulvinar eu volutpat nulla ultricies. Vestibulum tempor lobortis faucibus. Donec convallis eros ac velit mattis at rutrum tortor ornare. Donec eu nulla dolor, quis tincidunt leo. Etiam pharetra ligula id lacus rutrum congue. Nullam dignissim purus sed elit condimentum id consectetur nisi condimentum. Aliquam erat volutpat. Fusce hendrerit, risus quis feugiat vehicula, risus magna facilisis eros, sit amet facilisis purus nisi vitae velit. Pellentesque in odio tellus, non faucibus felis. Morbi elit velit, sagittis lacinia malesuada nec, volutpat non sem.
+
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam elementum erat id lorem pretium laoreet. In neque velit, rutrum a ultricies eget, facilisis ac nisi. Sed consequat pulvinar dui, euismod tristique tortor mollis ut. Morbi non dui ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae purus est, vitae elementum arcu. Etiam eget leo est, sed venenatis velit. Donec iaculis mollis urna, a pellentesque neque aliquet et. Donec id dui ipsum. Duis vel sapien eget arcu hendrerit lacinia et et magna. Ut condimentum fermentum fringilla. Nullam eget mi tellus, in bibendum erat. Phasellus sit amet lacus magna. Maecenas laoreet ante non augue dictum a porttitor tortor accumsan. In vitae nunc dolor, et rhoncus arcu. Phasellus vel turpis eu metus rutrum consectetur. Nulla dignissim dictum cursus.
+
+Quisque libero risus, suscipit sit amet mollis nec, condimentum in diam. Integer commodo ligula quis lectus pharetra in tincidunt arcu tincidunt. Maecenas nec lacus ipsum. Phasellus interdum consequat dolor. Proin volutpat eros a ipsum varius porttitor. Mauris pellentesque ullamcorper pulvinar. Quisque nunc ipsum, dapibus vel tristique sed, faucibus malesuada diam. Ut in nisi porttitor odio tincidunt viverra. Fusce orci purus, varius non pulvinar quis, interdum vel arcu. Praesent eu varius tellus.
+
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer pulvinar, eros sed faucibus faucibus, leo erat interdum nulla, vitae commodo ipsum risus id purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras leo tellus, elementum eu mollis id, vestibulum a risus. Maecenas tincidunt blandit ante, at hendrerit mauris imperdiet sit amet. Curabitur diam tortor, fringilla ac cursus at, congue in felis. Nam pellentesque pellentesque massa et convallis. Donec augue risus, pellentesque tristique vulputate non, rutrum dictum metus. Vivamus nibh est, rutrum non accumsan sed, euismod ut felis. Curabitur sodales est eget nisl auctor quis dignissim lacus pulvinar. Curabitur quis elit et nibh fringilla blandit ut ac dui. Proin volutpat arcu id lorem vulputate condimentum. Praesent sed tincidunt neque. Suspendisse non sem nec massa tempus sollicitudin. In accumsan pretium sodales. Phasellus ac sapien sit amet dolor eleifend varius. Quisque sed urna ut eros pharetra pharetra ac in dui. Aliquam varius gravida ipsum ac sodales. Suspendisse vel quam diam, quis interdum augue. </direction>		
+	</module>	
+	<module>
+		<title>Working with Health Care Providers</title>
+		<status>Start</status>
+		<description>Importance of Health History</description>
+		<direction>More Specific Directions</direction>		
+	</module>	
+	<module>
+		<title>Administering Medications - Prep</title>
+		<status>Continue</status>
+		<description>A few good descriptions</description>
+		<direction>Even More Directions</direction>		
+	</module>	
+	<module>
+		<title>Administering Medications – Routes</title>
+		<status>Start</status>
+		<description>Why am I administring Meds?</description>
+		<direction>Who wrote this?</direction>		
+	</module>
+	<module>
+		<title>Administering Medications – Handling Refusals</title>
+		<status>Start</status>
+		<description>Why am I dealing with this?</description>
+		<direction>Who wrote this?</direction>		
+	</module>--->
+</landingData>

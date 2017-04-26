@@ -1,0 +1,334 @@
+<?xml version=\"1.0\"?>
+<moduleData>
+	<title>Working with Medications - Basics</title>
+	<statementofproblem>Help to figure out this problem by looking at this information and providing a solution for the DSP.</statementofproblem>
+	<submenu name="main menu" />
+	<submenu name="issue">
+		<area name="video">video/mscr1</area>
+		<area name="images">
+			<image locate="amoswalk" caption="walking the dog" thumbwidth="100" thumbheight="58" />
+			<image locate="class1" caption="A classroom that I did some research in" thumbwidth="100" thumbheight="75"/>
+			<image locate="class2" caption="Another picture of that classroom" thumbwidth="100" thumbheight="75"/>
+			<image locate="class3" caption="Yet one more picture" thumbwidth="100" thumbheight="75"/>
+			<image locate="class4" caption="Computers and a file cabinet" thumbwidth="100" thumbheight="75"/>
+			<image locate="class5" caption="The meeting table" thumbwidth="100" thumbheight="75"/>
+			<image locate="amoswalk" caption="walking the dog" thumbwidth="100" thumbheight="58" />
+			<image locate="class1" caption="A classroom that I did some research in" thumbwidth="100" thumbheight="75"/>
+			<image locate="class2" caption="Another picture of that classroom" thumbwidth="100" thumbheight="75"/>
+			<image locate="class3" caption="Yet one more picture" thumbwidth="100" thumbheight="75"/>
+			<image locate="class4" caption="Computers and a file cabinet" thumbwidth="100" thumbheight="75"/>
+		</area>
+		<area name="documents">
+			<file name="First Principles of Instuction" size="70 KB">10-1.1.1.22.1979.pdf</file>
+			<file name="Learn to Code: The Full Beginners Guide" size="438 KB">Learn How To Code.pdf</file>
+			<file name="Preservice Technology Integration Course Revision: A Conceptual Guide" size="225 KB">paper_28346.pdf</file>
+		</area>
+		<area name="problem">
+		<TextFlow xmlns='http://ns.adobe.com/textLayout/2008' fontSize="16" paragraphSpaceAfter='15' marginBottom='15' paddingTop='6' paddingLeft='6' paddingRight='6'><p><span fontWeight="bold">Problem Overview</span></p>
+		<p><span>This problem is looking at the need to understand how to work with the medications that the client has. The client is experiencing some problems with the medications. The dsp recently went with the client to the doctor for a medication-based check up. The dsp noticed some information about new medications that where prescribed. The client uses herbal supplements in his daily medication intake.</span></p>
+		</TextFlow>
+		</area>
+	</submenu>
+	<submenu name="information">
+		<area name="Info Bite 1">
+		<item>
+			<TextFlow xmlns='http://ns.adobe.com/textLayout/2008' fontSize="16" paragraphSpaceAfter='15' marginBottom='15' paddingTop='6' paddingLeft='6' paddingRight='6'>
+			<p><span fontWeight="bold">Point #1</span></p><p><span>It is important to understand why people take medications, remedies, and supplements. People use these for many reasons. This includes to:</span></p>
+			<p><span>•	Prevent illness or disease.</span></p>
+			<p><span>•	Cure illness or disease.</span></p>
+			<p><span>•	Treat long term health conditions.</span></p>
+			<p><span>•	Treat mental health and neurological conditions.</span></p>
+			<p><span>•	Respond to pain and inflammation.</span></p>
+			<p><span>•	Improve or enhance his or her lifestyle.</span></p>
+			</TextFlow>
+		</item>
+		<item>
+			<TextFlow xmlns='http://ns.adobe.com/textLayout/2008' fontSize="16" paragraphSpaceAfter='15' marginBottom='15' paddingTop='6' paddingLeft='6' paddingRight='6'>
+			<p><span fontWeight="bold">Point #2</span></p>
+			<p><span>Let’s look at some examples of medications, remedies, and supplements that people take.</span></p>
+			<p><span fontWeight="bold">Prevent illness or disease.</span></p>
+			<p><span>Supplements are often used for this purpose. An example is taking aspirin to prevent a heart attack. Another example is taking Echinacea to prevent colds.</span></p>
+			<p><span fontWeight="bold">Cure illness or disease.</span></p>
+			<p><span>Examples include colds, flu, and ulcers. Treatment may include antibiotics or antiviral medications. Someone may also use over the counter medicine or home remedy. This can treat symptoms like congestion, coughs, or fever.</span></p>
+			<p><span fontWeight="bold">Treat long term health conditions.</span></p>
+			<p><span>Examples include heart problems, high blood pressure, and diabetes.  People will often be given prescription medication to treat these conditions.</span></p>
+			</TextFlow>
+		</item>
+		<item>
+			<TextFlow xmlns='http://ns.adobe.com/textLayout/2008' fontSize="16" paragraphSpaceAfter='15' marginBottom='15' paddingTop='6' paddingLeft='6' paddingRight='6'><p><span fontWeight="bold">Point #3</span></p><p><span>Below are more examples of medications, remedies, and supplements that people take.</span></p>
+			<p><span fontWeight="bold">Treatment of mental health and neurological conditions.</span></p>
+			<p><span>Examples include depression, schizophrenia, and anxiety disorders. Prescription medication is sometimes used to treat these. Some cultures believe these conditions have a spiritual basis. In this case people may choose to use spiritual cures or home remedies.</span></p>
+			<p><span fontWeight="bold">Response to pain and inflammation.</span></p>
+			<p><span>Examples include arthritis or migraine headaches. Pain can be from an injury. It can also be chronic or ongoing. Someone can also have pain without a known cause. Non-prescription and prescription medicine may be used for this. Sometimes heat or cold, home remedies, and herbals will be used.</span></p>
+			<p><span fontWeight="bold">Improve Lifestyle.</span></p>
+			<p><span>There are many conditions that can decrease a person's overall quality of life. Examples include insomnia, acne, allergies, and smoking. A person may take medication to help with this. This includes prescription, non-prescription, and natural or herbal remedies.</span></p>
+			</TextFlow>
+		</item>
+		<item>
+			<TextFlow xmlns='http://ns.adobe.com/textLayout/2008' fontSize="16" paragraphSpaceAfter='15' marginBottom='15' paddingTop='6' paddingLeft='6' paddingRight='6'>
+			<p><span fontWeight="bold">Point #4</span></p>
+			<p><span>Prescription medication requires a doctor's written approval. It must be bought from a licensed pharmacist. Drugs that are more likely to be abused usually need a doctor's prescription too. This is true of drugs that may have serious side effects. It is also true of drugs where dosage and timing is very important. Examples include anti-depressants and drugs for hyperactivity.</span></p>
+			</TextFlow>
+			</item>
+		<item>
+			<TextFlow xmlns='http://ns.adobe.com/textLayout/2008' fontSize="16" paragraphSpaceAfter='15' marginBottom='15' paddingTop='6' paddingLeft='6' paddingRight='6'>
+			<p><span fontWeight="bold">Point #5</span></p>
+			<p><span>Drugs are put into two different categories. The first are controlled substances. The second are non-controlled substances. Controlled substances can be legal or illegal. These drugs have a high potential for abuse. An example of a controlled legal drug is a strong pain medication like Oxycodone. Examples of controlled illegal drugs are heroin or cocaine.</span></p>
+			</TextFlow>
+		</item>
+		<item>
+			<TextFlow xmlns='http://ns.adobe.com/textLayout/2008' fontSize="16" paragraphSpaceAfter='15' marginBottom='15' paddingTop='6' paddingLeft='6' paddingRight='6'>
+			<!---<p><img source = "@Embed(source='images/amoswalkthumb.jpg')"/></p>--->
+			<p><span fontWeight="bold">Point #6</span></p>
+			<p><span>It is becoming more common to use alternative treatments to treat health conditions. Doctors are more open to treatments that focus on the mind, body, and spirit.These include:</span></p>
+			<!---<p><img source = "images/class5thumb.jpg"/></p>--->
+			<p><span fontWeight="bold">Natural Remedies</span></p>
+			<p><span>These are made from natural substances found in herbs and plants.They may require eating or drinking something. They may be inhaled, gargled, or rubbed on the skin. They can be used in place of medications or taken with medications.</span></p>
+			<p><span fontWeight="bold">Supplements</span></p>
+			<p><span>These include vitamins, minerals, and other substances. An example is taking extra protein or fiber to ensure good balance in a daily diet.</span></p>
+			<!---<p><img source = 'images/amoswalkthumb.jpg'/></p>--->
+			<p><span fontWeight="bold">Therapy</span></p><p><span>This can include alternative therapies. Examples include acupuncture, acupressure, and massage therapy.</span></p></TextFlow></item>
+		<item>
+			<TextFlow xmlns='http://ns.adobe.com/textLayout/2008' fontSize="16" paragraphSpaceAfter='15' marginBottom='15' paddingTop='6' paddingLeft='6' paddingRight='6'>
+			<p><span fontWeight="bold">Point #7</span></p>
+			<p><span>Medications come in many different forms. This includes:</span></p>
+			<p><span>•	Pills</span></p>
+			<p><span>•	Lozenges</span></p>
+			<p><span>•	Liquids</span></p>
+			<p><span>•	Creams or ointments</span></p>
+			<p><span>•	Patches</span></p>
+			<p><span>•	Suppositories</span></p>
+			<p><span>•	Sprays</span></p>
+			</TextFlow>
+		</item>
+		<item>
+			<TextFlow xmlns='http://ns.adobe.com/textLayout/2008' fontSize="16" paragraphSpaceAfter='15' marginBottom='15' paddingTop='6' paddingLeft='6' paddingRight='6'>
+			<p><span fontWeight="bold">Point #8</span></p>
+			<p><span>Medications are meant to be taken at very specific times. A timing mistake can be very serious. It can lead to an overdose or to poor treatment. As a direct support professional, there are three kinds of timing you need to know about:</span></p>
+			<p><span fontWeight="bold">Time-Limited Medications</span></p>
+			<p><span>Often given to treat an illness or a temporary condition. An example is strep throat. These are often given in the smallest dose possible. You should never skip a dose. It is important to take these on time. It is also important to take the full amount of medication. Not doing this can reduce a medication’s effectiveness.</span></p>
+			<p><span fontWeight="bold">On-Going Medications</span></p>
+			<p><span>These are taken regularly. They are taken in a routine way. An example is medicine for diabetes or blood pressure. It is important to develop a system. This helps to give these in the right way at the right time. Always check the label. Always make sure no changes have been made.</span></p>
+			<p><span fontWeight="bold">As Needed Medications</span></p>
+			<p><span>These are often called PRNs. A PRN may be an extra dose of a regular medication. Or it may be a separate prescription. It may also be an over-the-counter medication.  PRNs meet a specific need. An example is medication for a head or a stomach ache. It could also help with a change in a chronic condition like blood pressure. PRN medications need to be given with the same care as on-going medications.</span></p>
+			</TextFlow>
+		</item>
+		</area>
+		<area name="Info Bite 2">
+		<item>
+			<TextFlow xmlns='http://ns.adobe.com/textLayout/2008' fontSize="16" paragraphSpaceAfter='15' marginBottom='15' paddingTop='6' paddingLeft='6' paddingRight='6'>
+			<p><span fontWeight="bold">Point #1</span></p>
+			<p><span>There are many different problems that can happen a person takes medication. These include:</span></p>
+			<p><span fontWeight="bold">Drug Interactions:</span></p><p><span>Drugs can interact with things you eat, drink, or with other drugs. This can change the effect of the drug. It can make the drug more toxic or less effective. Discuss possible interactions with a health care practitioner before starting a new medication.</span></p>
+			<p><span fontWeight="bold">Side Effects: </span></p><p><span>Many medications are known to have unwanted effects. Some examples include nausea, constipation, headache, or weakness. There may be other options. This includes lowering the dosage or using a different medication.</span></p>
+			<p><span fontWeight="bold">Medication Sensitivity: </span></p><p><span>Some people are more sensitive to medications than others. This includes the elderly, women, and children. It includes people with metabolic disorders. It also includes those with poor functioning livers or kidneys.</span></p>
+			<p><span fontWeight="bold">Adverse Reactions: </span></p><p><span>This is a poor reaction to a medication that is unexpected and severe. It can be long-lasting or life-threatening. Signs include severe pain, severe nausea and vomiting, difficulty breathing, difficulty staying awake, panic attacks, a sudden change in blood pressure, or a rapid heartbeat.</span></p>
+			<p><span fontWeight="bold">Drug Allergies: </span></p><p><span>Common symptoms include hives, skin rash, itching of the skin or eyes, wheezing, swelling of the lips, tongue, and/or face. Most cause minor skin rashes and hives. But some can be life-threatening and includes a drop in blood pressure, hives, and trouble breathing.</span></p>
+			</TextFlow>
+		</item>
+		<item>
+			<TextFlow xmlns='http://ns.adobe.com/textLayout/2008' fontSize="16" paragraphSpaceAfter='15' marginBottom='15' paddingTop='6' paddingLeft='6' paddingRight='6'>
+			<p><span fontWeight="bold">Point #2</span></p>
+			<p><span>As a direct support professional you will need to watch for problems with medications. It is very important to write down what you see in detail. This includes what day, time, and exactly what happened. Be highly alert whenever a person you support starts a new medication. The following are signs that the person may be having problems with a medication:</span></p>
+			<p><span>•	Sleepiness or drowsiness at unusual times.</span></p>
+			<p><span>•	A change in appetite, thirst, or sleep patterns.</span></p> 
+			<p><span>•	An increase or decrease in usual challenging behaviors. This may include aggression, self-injury, yelling, crying, or repetitive behaviors.</span></p>
+			<p><span>•	Unusual behaviors for the person.  A change in his or her mood.</span></p>			
+			<p><span>•	Rashes, hives, signs of a "cold," discomfort, or illness.</span></p>
+		</TextFlow>
+		</item>
+		<item>
+			<TextFlow xmlns='http://ns.adobe.com/textLayout/2008' fontSize="16" paragraphSpaceAfter='15' marginBottom='15' paddingTop='6' paddingLeft='6' paddingRight='6'>
+			<p><span fontWeight="bold">Point #3</span></p>
+			<p><span>Medication side effects can make it hard for a person to take the medication. As a direct support professional you can help someone you support to track side effects. You can communicate these to health care professionals. This can help to find the best possible treatment. To manage side effects and sensitivities do the following:</span></p>
+
+			<p><span>•	Know what side effects are likely to occur. Read the packaging or ask the healthcare professional about this.</span></p>
+			<p><span>•	Make sure you understand how long these side effects may last.</span></p>
+			<p><span>•	Keep track of any uncomfortable or irritating effects that happen.</span></p>
+			<p><span>•	Tell the person’s health care professional about the effects if they are uncomfortable or unexpected.</span></p>
+			<p><span>•	Serve as an advocate. Investigate alternatives and seek a second opinion if desired by the person.</span></p>
+			<p><span>•	Contact emergency services immediately if side effects are severe.</span></p>
+
+			</TextFlow>
+		</item>
+		<item>
+			<TextFlow xmlns='http://ns.adobe.com/textLayout/2008' fontSize="16" paragraphSpaceAfter='15' marginBottom='15' paddingTop='6' paddingLeft='6' paddingRight='6'>
+			<p><span fontWeight="bold">Point #4</span></p><p><span>A person you support may have a problem reaction to a medication. If so, the following steps need to be taken:</span></p><p><span>• Handle any health needs immediately. Make sure the person is safe.</span></p><p><span>• Write down exactly what happened. Include the following:</span></p><p><span> When and how much was taken.</span></p><p><span> Any cautions or precautions that may have been missed.</span></p><p><span>What happened to the person. Describe exactly what happened and when it happened (time and date).</span></p><p><span>Gather any information you can think of that may help determine the cause of the problem. This may help to clarify what caused the problem or reaction.</span></p><p><span>Communicate these problems and information to the health practitioner who prescribed the medication.</span></p>
+			</TextFlow>
+		</item>
+		</area>
+		<area name="Info Bite 3">
+		<item>
+		<TextFlow xmlns='http://ns.adobe.com/textLayout/2008' fontSize="16" paragraphSpaceAfter='15' marginBottom='15' paddingTop='6' paddingLeft='6' paddingRight='6'>
+		<p><span fontWeight="bold">Point #1</span></p>
+		<p><span>Sometimes medication can no longer be used. It is a good idea to dispose of this promptly. Medication may need to be destroyed because:</span></p>
+		<p><span>• It has become soiled or otherwise ruined. An example is medication that has fallen on the floor or that has not been properly stored.</span></p>
+		<p><span>• It is past the expiration date.</span></p>
+		<p><span>• The person can no longer use it. Examples include when a prescription changes, the person no longer has the condition, or the medication causes serious adverse reactions.</span></p>
+		</TextFlow>
+		</item>
+		<item>
+		<TextFlow xmlns='http://ns.adobe.com/textLayout/2008' fontSize="16" paragraphSpaceAfter='15' marginBottom='15' paddingTop='6' paddingLeft='6' paddingRight='6'>
+		<p><span fontWeight="bold">Point #2</span></p><p><span>Destroying medication may be part of your job as a direct support professional. The following are some common requirements:</span></p>
+		<p><span>•	Specific procedures may need to be followed. Find out what your employer requires.</span></p> 
+		<p><span>•	The presence of specific personnel may be required. An example might be a registered nurse.</span></p>
+		<p><span>•	You may need a witness when you destroy medicine.</span></p>
+		<p><span>•	Specific methods to document destruction of medication may be expected. This may include what was destroyed and how much. Witnesses should sign off on any documentation.</span></p>
+		</TextFlow>
+		</item>
+		<item>
+		<TextFlow xmlns='http://ns.adobe.com/textLayout/2008' fontSize="16" paragraphSpaceAfter='15' marginBottom='15' paddingTop='6' paddingLeft='6' paddingRight='6'>
+		<p><span fontWeight="bold">Point #3</span></p>
+		<p><span>It used to be common to flush medicine down the toilet to destroy it. Today there are pollution concerns about this practice. You may want to check into other options in the community. One option may be to return unused medicine to the pharmacist for disposal. Another may be to take unused medicine to a hazardous waste collection site. Call a local pharmacist and ask for help. He or she can tell you the best way to destroy a certain kind of medicine.</span></p>
+		</TextFlow> 
+		</item>
+		</area>
+		<area name="Info Bite 4">
+		<item>
+		<TextFlow xmlns='http://ns.adobe.com/textLayout/2008' fontSize="16" paragraphSpaceAfter='15' marginBottom='15' paddingTop='6' paddingLeft='6' paddingRight='6'>
+		<p><span fontWeight="bold">Point #1</span></p>
+		<p><span>To administer medication correctly, you must be able to read a medication label and other written information about medications. </span></p>
+		<p><span>Items on a Label include:</span></p>                                                
+		<p><span>•	Prescriber's name.</span></p>
+		<p><span>•	Name of person receiving the medication. (Right person)</span></p>
+		<p><span>•	Date the prescription was filled.</span></p>
+		<p><span>•	Name of medication. (Right medication)</span></p>
+		<p><span>•	The quantity or amount in the prescription.</span></p>
+		<p><span>•	Strength and dose of the medication. (Right dose)</span></p>
+		<p><span>•	Directions on how to use the medication. (Right time and right route)</span></p>
+		<p><span>•	Expiration date.</span></p>
+		<p><span>•	Number of refills.</span></p>
+		<p><span>•	Pharmacy information.</span></p>
+		<p><span>•	Prescription number.</span></p>
+		<p><span>•	Warnings and precautions.</span></p>
+		</TextFlow> 
+		</item>
+		<item>
+		<TextFlow xmlns='http://ns.adobe.com/textLayout/2008' fontSize="16" paragraphSpaceAfter='15' marginBottom='15' paddingTop='6' paddingLeft='6' paddingRight='6'>
+		<p><span fontWeight="bold">Point #2</span></p>
+		<p><span>There are four critical parts to a label on an over-the-counter (OTC) medication.</span></p>
+		<p><span fontWeight="bold">Uses</span></p>
+		<p><span>This describes why a person takes the medication and what it will do.</span></p>
+		<p><span fontWeight="bold">Directions</span></p>
+		<p><span>This has information about correct dosage, timing, and route. It includes preparation and technique. It will also tell you how often the medication can be taken. </span></p>
+		<p><span fontWeight="bold">Ingredients</span></p>
+		<p><span>Medication has active and inactive ingredients. Active ingredients have known medicinal effects. Inactive ingredients do not.  Some active ingredients have substances that need to be avoided. Examples include alcohol, sugar, or certain dyes. Problems with inactive ingredients are listed under "Other Information."  Never use more than one medication that has the same active ingredient at the same time.</span></p>
+		<p><span fontWeight="bold">Warnings</span></p>
+		<p><span>This provides information about interactions a drug may have with other substances. It shares how children or pregnant and nursing women may be affected.  It lists problem reactions and what to do about an overdose. It will also help you understand when to contact a doctor about symptoms or problems with the medications.</span></p>
+		</TextFlow> 
+		</item> 
+		</area>
+	</submenu>
+	<submenu name="submission">
+		<area name="your solution">
+		<TextFlow xmlns='http://ns.adobe.com/textLayout/2008' fontSize="16" paragraphSpaceAfter='15' marginBottom='15' paddingTop='6' paddingLeft='6' paddingRight='6'><p><span fontWeight="bold">Directions:</span></p>
+		<p><span>Use the information that you have reviewed in this lesson and consider possible solution for the DSP.</span></p>
+		<p><span>You may use the notes function or your own method to organize your thoughts before recording.</span></p>
+		<p><span>When you are done recording, watch your video and decide if you would like to save your solution or re-record it.</span></p>
+		</TextFlow>
+		</area>
+		<area name="test">
+			<instructions>
+			<TextFlow xmlns='http://ns.adobe.com/textLayout/2008' fontSize="16" paragraphSpaceAfter='15' marginBottom='15' paddingTop='6' paddingLeft='6' paddingRight='6'>
+				<p><span fontWeight="bold">Directions</span></p>
+				<p><span>This is the test section for this module.</span></p>
+				<p><span>A series of questions will be presented to you and you will select the most appropriate answer.</span></p>
+				<p><span>You select the answer by clicking on the selection that is highlighted in green.</span></p>
+				<p><span>You will be told if your selection is correct or what area of the information that you might need a refresher on.</span></p>
+				<p><span>A bar will be present at the bottom of the area to indicate for much of the test you have completed.</span></p>
+				<p><span>Feedback will be given at the end.</span></p>
+				<p><span>Click the arrow to begin.</span></p>
+			</TextFlow> 
+			</instructions>
+			<directions>
+			<![CDATA[Directions
+This is the test section for this module.
+A series of questions will be presented to you and you will select the most appropriate answer.
+You select the answer by clicking on the selection that is highlighted in green.
+You will be told if your selection is correct or what area of the information that you might need a refresher on.
+A bar will be present at the bottom of the area to indicate for much of the test you have completed.
+When you are ready to start, click the arrow to begin.]]>
+			</directions>
+			<question text="People take medications for many different reasons including to:"answer="1">
+			<answer text="Prevent illness, cure disease, treat physical and mental health, help with pain, or improve lifestyle. " choiceValue="1" description="none" />	
+			<answer text="Prevent illness, cure disease, treat physical and mental health, increase energy, or improve lifestyle." choiceValue="2" description="none" />
+			<answer text="Prevent illness, cure disease, increase energy, help with pain, or improve lifestyle." choiceValue="3" description="none" />
+			<answer text="Prevent illness, cure disease, treat physical and mental health, help with pain, or manage hygiene." choiceValue="4" description="none" />
+			</question>
+			<question text="Prescription drugs require a doctor’s written prescription because they are more likely to be abused and may have serious side effects if taken incorrectly."answer="1">
+			<answer text="True" choiceValue="1" description="none" />	
+			<answer text="False" choiceValue="2" description="none" />
+			</question>
+			<question text="Controlled substances are always illegal drugs that have a high risk of abuse. "answer="2">
+			<answer text="True" choiceValue="1" description="none" />	
+			<answer text="False" choiceValue="2" description="none" />
+			</question>
+			<question text="Alternative treatments that focus on the mind, body and spirit include:"answer="3">
+			<answer text="Natural remedies, massage therapy, and vitamins" choiceValue="1" description="none" />	
+			<answer text="Supplements, therapy, and vitamins." choiceValue="2" description="none" />
+			<answer text="Natural remedies, supplements, and therapy." choiceValue="3" description="none" />
+			<answer text="None of the above." choiceValue="4" description="none" />
+			</question>
+			<question text="Medications come in three main forms that include pills, liquids, and ointments."answer="2">
+			<answer text="True" choiceValue="1" description="none" />	
+			<answer text="False" choiceValue="2" description="none" />
+			</question>
+			<question text="Most over-the-counter drugs, herbals, and nutritional supplements are safe and have few side effects."answer="2">
+			<answer text="True" choiceValue="1" description="none" />	
+			<answer text="False" choiceValue="2" description="none" />
+			</question>
+			<question text="Controlled substances are always illegal drugs that have a high risk of abuse. "answer="2">
+			<answer text="True" choiceValue="1" description="none" />	
+			<answer text="False" choiceValue="2" description="none" />
+			</question>
+			<question text="Problems that can happen when a person takes medication include which of the following:"answer="2">
+			<answer text="Side effects, sensitivities, adverse reactions, allergies, and trouble breathing." choiceValue="1" description="none" />	
+			<answer text="Interactions, side effects, sensitivities, adverse reactions, and allergies. " choiceValue="2" description="none" />
+			<answer text="Side effects, sensitivities, allergies, trouble breathing, and interactions." choiceValue="3" description="none" />
+			<answer text="Interactions, sensitivities, side effects, allergies, and nausea." choiceValue="4" description="none" />
+			</question>
+			<question text="It is very important for direct support professionals to document problems with medications, including the day, time, and exactly what happened."answer="1">
+			<answer text="True" choiceValue="1" description="none" />	
+			<answer text="False" choiceValue="2" description="none" />
+			</question>
+			<question text="To manage side effects and sensitivities of medication a direct support professional can do which of the following:"answer="3">
+			<answer text="Track the side effects, tell health care professionals, and keep the person from taking the medication if you are concerned." choiceValue="1" description="none" />	
+			<answer text="Work with health care professionals to avoid risky medications based on what you know about the person you support." choiceValue="2" description="none" />
+			<answer text="Know the side effects and how long they last, track the side effects, tell health care professionals, and serve as an advocate." choiceValue="3" description="none" />
+			<answer text="Know the side effects and share these with the person you support." choiceValue="4" description="none" />
+			</question>
+			<question text="If a person you support has a bad reaction to a medication you should do which of the following:"answer="1">
+			<answer text="Address the person’s health needs, write down what happened, and communicate this with the health care professional. " choiceValue="1" description="none" />	
+			<answer text="Call 911 and then make sure to document exactly what happened so you can let them know." choiceValue="2" description="none" />
+			<answer text="Call the person’s health care professional and ask for instructions." choiceValue="3" description="none" />
+			<answer text="Address the person’s health needs, call 911, and document what happened." choiceValue="4" description="none" />
+			</question>
+			<question text="Medication may need to be destroyed for a number of reasons including:" answer="1">
+			<answer text="Contamination or expiration." choiceValue="1" description="none" />	
+			<answer text="The DSP feels it’s unhealthy." choiceValue="2" description="none" />
+			<answer text="The medication is being abused." choiceValue="3" description="none" />
+			<answer text="The DSP feels it’s unsafe." choiceValue="4" description="none" />
+			</question>
+			<question text="Most medications can be destroyed by either flushing it down the toilet or taking it to a hazardous waste collection site." answer="2">
+			<answer text="True" choiceValue="1" description="none" />	
+			<answer text="False" choiceValue="2" description="none" />
+			</question>
+			<question text="The four critical parts of a prescription label include which of the following:" answer="2">
+			<answer text="Uses, directions, ingredients, and expiration date." choiceValue="1" description="none" />	
+			<answer text="Uses, directions, ingredients, and warnings. " choiceValue="2" description="none" />
+			<answer text="Uses, dose, expiration date, and medication name." choiceValue="3" description="none" />
+			<answer text="Uses, person’s name, dose, and warnings." choiceValue="4" description="none" />
+			</question>
+		</area>
+		<area name="reflection">
+		<TextFlow xmlns='http://ns.adobe.com/textLayout/2008' fontSize="16" paragraphSpaceAfter='15' marginBottom='15' paddingTop='6' paddingLeft='6' paddingRight='6'><p><span fontWeight="bold">Directions:</span></p>
+		<p><span>Use the note taking function of this program or your own notebook. Write down your answers the following questions.</span></p>
+		<p><span>Think about a person you currently support. Describe each medication, how it is taken, the dosage, and its purpose. Include over the counter medications, alternative treatments, herbal supplements and vitamins, and prescription medications.</span></p>
+		<p><span>After going through this part of the lesson review, describe the changes you will make in the future with regard to knowing about and understanding the medications of those you support.</span></p>
+		<p><span>When you are ready, use your notes and record a personal video reflection </span></p>
+		</TextFlow>
+		</area>
+	</submenu>
+</moduleData>
+			
+		
